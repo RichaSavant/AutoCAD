@@ -1,0 +1,3 @@
+AutoCAD is a CAD software by Autodesk used by architects, engineers, and designers for creating precise 2D and 3D drawings. It's an industry standard for drafting and technical diagrams in construction, manufacturing, and engineering.
+
+This GitHub repository contains a collection of AutoCAD drawings and files primarily focused on geometric shapes and projections. The files include various 2D drawings, hexagonal and pentagonal pyramids, and prism designs. There are also multiple files dedicated to the projection of lines and points, such as those inclined to different planes (HP, VP), and perpendicular projections. Additionally, the repository features several lamina designs and square pyramids.
